@@ -1,5 +1,10 @@
-## Hi there 👋
-
+## Hello, I am Charles Schneider
+## Major:
+IT & Cybersecurity
+## Projects I've worked/working on:
+- I've set up a Minecraft server through a proxy on CloudFlare on my own time before
+- During high school and college classes I created website pages with HTML & CSS for classwork
+- Once I spend some time learning website security I will create my own personal website
 <!--
 **beelover715/beelover715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
