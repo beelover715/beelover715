@@ -5,6 +5,8 @@ IT & Cybersecurity
 - I've set up a Minecraft server through a proxy on CloudFlare on my own time before
 - During high school and college classes I created website pages with HTML & CSS for classwork
 - Once I spend some time learning website security I will create my own personal website
+
+This is an edit for class purposes.
 <!--
 **beelover715/beelover715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
